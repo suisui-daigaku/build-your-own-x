@@ -37,11 +37,19 @@ It's a great way to learn.
 
 ## Tutorials
 
+
+#### Introduction to Computer Science 
+* [**C/Python/JavaScript/HTML/CSS**: _CS50’s Introduction to Computer Science_](https://cs50.harvard.edu)
+* [**Java**: _CS50x: Android_](https://cs50.harvard.edu/x/2020/tracks/mobile/android/)
+* [**C**: _CS50x: Game_](https://cs50.harvard.edu/x/2020/tracks/games/)
+* [cs61a](https://cs61a.org/)
+* [cs61b](https://sp23.datastructur.es/)
+* [cs61c](https://cs61c.org/sp23/)
+
 #### Build your own `Linear Algebre`
 
 * [**Rust**: _Creating a Linear Algebra library from scratch in Rust_](https://www.youtube.com/watch?v=TTumOVDSSzk)
 * [**C++**: _Ubpa Graphics Mathematics_](https://github.com/Ubpa/UGM)
-
 
 #### Build your own `Game Engine`
 * [**C++**: _Utopia Game Engine 无境游戏引擎_](https://github.com/Ubpa/Utopia)
