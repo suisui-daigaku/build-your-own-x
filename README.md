@@ -37,6 +37,12 @@ It's a great way to learn.
 
 ## Tutorials
 
+#### Build your own linear algebra 
+
+* [**Rust**: _Creating a Linear Algebra library from scratch in Rust_](https://www.youtube.com/watch?v=TTumOVDSSzk)
+* [**C++**: _Ubpa Graphics Mathematics_](https://github.com/Ubpa/UGM)
+
+
 #### Build your own `3D Renderer`
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
