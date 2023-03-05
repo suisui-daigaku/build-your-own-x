@@ -14,14 +14,6 @@
 
 至少你做出来的毕业设计会自己用...@#@
 
-
-自动驾驶 
-
-- CARLA https://carla.org/
-- AutoWare https://github.com/autowarefoundation/autoware 
-- Apollo https://github.com/ApolloAuto/apollo
-- Huawei Noah's Ark Lab https://github.com/huawei-noah
-
 ## Table of Contents: Build your own X
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
@@ -30,6 +22,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
+* [Hypervisor]()
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
@@ -60,6 +53,16 @@ It's a great way to learn.
 ## Tutorials
 
 
+#### Hypervisor 
+
+* [Noah: Linux on macOS](https://github.com/linux-noah/noah)
+* Xen https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/xen/
+* Xen U-Boot https://u-boot.readthedocs.io/en/latest/board/xen/xenguest_arm64.html
+* 使用 Rust 实现的 RISC-V Type-1 hypervisor 运行 rCore-Tutorial-v3 https://github.com/KuangjuX/hypocaust-2
+* 从零开始用Rust语言实现一个x86 hypervisor-P1 https://www.bilibili.com/video/BV1DT411D7sM/
+* 阿图教育 - 车
+
+
 #### Introduction to Computer Science 
 * [**C/Python/JavaScript/HTML/CSS**: _CS50’s Introduction to Computer Science_](https://cs50.harvard.edu)
 * [**Java**: _CS50x: Android_](https://cs50.harvard.edu/x/2020/tracks/mobile/android/)
@@ -67,6 +70,14 @@ It's a great way to learn.
 * [cs61a](https://cs61a.org/)
 * [cs61b](https://sp23.datastructur.es/)
 * [cs61c](https://cs61c.org/sp23/)
+
+
+#### 自动驾驶 
+
+- CARLA https://carla.org/
+- AutoWare https://github.com/autowarefoundation/autoware 
+- Apollo https://github.com/ApolloAuto/apollo
+- Huawei Noah's Ark Lab https://github.com/huawei-noah
 
 #### Build your own `Linear Algebre`
 
