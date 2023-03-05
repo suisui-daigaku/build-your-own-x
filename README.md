@@ -55,6 +55,8 @@ It's a great way to learn.
 
 #### Hypervisor 
 
+* Graphene https://blog.golemproject.net/graphene-contributor-spotlight-isaku-yamahata/
+* GrapheneOS https://grapheneos.org/
 * [Noah: Linux on macOS](https://github.com/linux-noah/noah)
 * Confidential Computing https://archive.fosdem.org/2021/schedule/event/containers_darwin_containerd/
 * Jessie Frazelle on "SCONE: Secure Linux Containers with Intel SGX" https://www.youtube.com/watch?v=3UYczEYrxuY
