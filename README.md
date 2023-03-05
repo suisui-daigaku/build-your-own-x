@@ -17,10 +17,10 @@
 
 自动驾驶 
 
-- CARLA 
-- AutoWare 
-- Apollo 
-- Huawei Noah's Ark Lab
+- CARLA https://carla.org/
+- AutoWare https://github.com/autowarefoundation/autoware 
+- Apollo https://github.com/ApolloAuto/apollo
+- Huawei Noah's Ark Lab https://github.com/huawei-noah
 
 ## Table of Contents: Build your own X
 
