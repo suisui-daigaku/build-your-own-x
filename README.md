@@ -56,6 +56,9 @@ It's a great way to learn.
 #### Hypervisor 
 
 * [Noah: Linux on macOS](https://github.com/linux-noah/noah)
+* Confidential Computing https://archive.fosdem.org/2021/schedule/event/containers_darwin_containerd/
+* Jessie Frazelle on "SCONE: Secure Linux Containers with Intel SGX" https://www.youtube.com/watch?v=3UYczEYrxuY
+* https://youtu.be/SUS3Zzko3eM?t=5158
 * Xen https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/xen/
 * Xen U-Boot https://u-boot.readthedocs.io/en/latest/board/xen/xenguest_arm64.html
 * vSGX https://ieeexplore.ieee.org/document/9833694
