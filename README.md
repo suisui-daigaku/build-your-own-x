@@ -1,5 +1,20 @@
 [![Banner](https://codecrafters.io/landing/images/byox-banner.gif?v=1)](https://codecrafters.io/github-banner)
 
+
+
+## 如何获取灵感
+
+- 字节校园 <http://ur.bytedance.com/learning-community>
+- 字节镜像计划 https://bytedance.feishu.cn/docx/doxcnGUGc79drcJ7oQTC5JSQpBb
+- 华为云大赛 <https://competition.huaweicloud.com/information/1000041810/introduction?track=112>
+- MIT6.824 Labs 
+- 字节校园瞭望计划 https://bytedancecampus1.feishu.cn/docs/doccnkB0p3xbPeunctSb8XU9PVf
+
+> 字节跳动针对高校研发专业学生开展的一系列合作课程，将目前企业中已有的成熟技术及案例与高校计算机课程体系相结合，通过讲授、实践作业、小学期项目实践、毕业设计等方式方法做到产学联合培养。
+
+至少你做出来的毕业设计会自己用... 
+
+
 ## Table of Contents: Build your own X
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
