@@ -60,7 +60,7 @@ It's a great way to learn.
 * Xen U-Boot https://u-boot.readthedocs.io/en/latest/board/xen/xenguest_arm64.html
 * 使用 Rust 实现的 RISC-V Type-1 hypervisor 运行 rCore-Tutorial-v3 https://github.com/KuangjuX/hypocaust-2
 * 从零开始用Rust语言实现一个x86 hypervisor-P1 https://www.bilibili.com/video/BV1DT411D7sM/
-* 阿图教育 - 车
+* 阿图教育 - 车用虚拟化技术 https://www.bilibili.com/video/BV1jM41147hR/
 
 
 #### Introduction to Computer Science 
