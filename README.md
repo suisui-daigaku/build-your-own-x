@@ -57,6 +57,10 @@ It's a great way to learn.
 
 #### Hypervisor 
 
+* Build your own QEMU/NEMU https://zhuanlan.zhihu.com/p/351837423
+ * 从mov指令到仙剑：通过NEMU构建简单完整的计算机系 余子濠 https://s4plus.ustc.edu.cn/_upload/article/files/05/ff/cce7c4694b97a01489dea9daa1a9/bbff49ab-19fe-4bc5-b105-8ac63232a75d.pdf
+ * 【操作系统最佳实践】MIT 6.828 JOS与NJU ICS NEMU源码精读 https://zhuanlan.zhihu.com/p/351837423
+ * 现代操作系统——原理与实现
 * Graphene https://blog.golemproject.net/graphene-contributor-spotlight-isaku-yamahata/
 * GrapheneOS https://grapheneos.org/
 * [Noah: Linux on macOS](https://github.com/linux-noah/noah)
