@@ -1,4 +1,4 @@
-[](feynman.png)
+![](feynman.png)
 [![Banner](https://codecrafters.io/landing/images/byox-banner.png)](https://codecrafters.io/github-banner)
 
 
